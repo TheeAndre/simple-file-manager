@@ -460,5 +460,5 @@ $(function(){
 </tr></thead><tbody id="list">
 
 </tbody></table>
-<footer>simple php filemanager by <a href="https://github.com/jcampbell1">jcampbell1</a></footer>
+<footer>&copy;  <?php echo date("Y"); ?> </footer>
 </body></html>
