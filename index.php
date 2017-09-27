@@ -172,7 +172,8 @@ function asBytes($ini_v) {
 $MAX_UPLOAD_SIZE = min(asBytes(ini_get('post_max_size')), asBytes(ini_get('upload_max_filesize')));
 ?>
 <!DOCTYPE html>
-<html><head>
+<html lang="en">
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
