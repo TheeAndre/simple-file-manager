@@ -5,6 +5,8 @@ A Simple PHP file manager.  The code is a single php file.
 
 Just copy `index.php` to a folder on your webserver.  
 
+In this version, updates to the UI with bootstrap 4 and font awesome. 
+
 ## Why it is good
 
 - Single file, there are no images, or css folders.  
